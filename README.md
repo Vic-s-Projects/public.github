@@ -1,9 +1,9 @@
 # WillardIT LLC | Engineering & AI Solutions
 
-Welcome to the official GitHub organization for **WillardIT**. This space houses the architectural patterns, source code, and documentation for a suite of full-stack web platforms and specialized system-level security environments.
+Welcome to the official GitHub organization for **Vic's Projects**. This space houses the architectural patterns, source code, and documentation for a suite of full-stack web platforms and specialized system-level security environments.
 
 ### 🏛️ Organizational Leadership
-**Victor Venero** *Owner & AI Solutions Architect* *Team Lead & Assistant to the CTO at Civista Bank*
+**Victor Venero** *Owner & AI Solutions Architect - [WillardIT llC](https://willardit.com)*  
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to the official GitHub organization for **WillardIT**. This space houses
 * **Key Engineering:** Designed with modular UI components and optimized .NET backend logic to facilitate rapid community growth.
 * **Tech Stack:** .NET Stack, JavaScript/jQuery, Responsive Web Design.
 
-### 🛡️ Family-Safe Restricted OS
+### 🛡️ [Control Access Terminal OS](https://willardit.com/CAT)
 **Low-Level System Security Environment**
 * **The Innovation:** A custom-engineered Windows-based environment designed to act as a secure shell for families.
 * **Key Features:** Implements system-level hooks to prevent unauthorized access to PC settings, hardcoded internet filtering, and administrative lockdowns to protect children from unfettered digital access.
@@ -33,14 +33,14 @@ Welcome to the official GitHub organization for **WillardIT**. This space houses
 
 
 
-* **Languages:** C#, VB.NET, T-SQL, JavaScript (ES6+).
+* **Languages:** C#, VB.NET, T-SQL, JavaScript (ES6+) . . . and more.
 * **Architectures:** AI Solution Design, RPA Orchestration (OpenBots), RESTful Microservices, Cloud Integration (AWS Lambda).
 * **Enterprise Leadership:** SDLC Management, Technical Team Mentorship, Executive Strategy (Banking/FinTech), System Hardening.
 
 ---
 
 ## 📈 Engineering Philosophy
-As a **Team Lead** and **Assistant to the CTO** in the banking industry, I bring enterprise-level rigor and "Five Nines" reliability mindset to every project in this organization:
+I bring enterprise-level rigor and "Five Nines" reliability mindset to every project in this organization:
 
 1.  **Security-First:** Whether it's a social app or an OS shell, security and data integrity are baked into the initial design phase.
 2.  **Scalability:** Utilizing modular .NET patterns to ensure products can grow from small utilities to mass-market platforms.
@@ -49,7 +49,7 @@ As a **Team Lead** and **Assistant to the CTO** in the banking industry, I bring
 ---
 
 ## 📫 Connect
-* **Web Portfolio:** [AllIWant.runasp.net](https://alliwant.runasp.net/)
+* **Web Portfolio:** [Vic's Info](https://willardit.com/vics_portfolio)
 * **LinkedIn:** [Insert Your LinkedIn Link Here]
 * **Email:** [vixplace@gmail.com](mailto:vixplace@gmail.com)
 
