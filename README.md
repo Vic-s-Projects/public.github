@@ -1,4 +1,4 @@
-# WillardIT LLC | Engineering & AI Solutions
+# Vic's Portfolio | Engineering & AI Solutions
 
 Welcome to the official GitHub organization for **Vic's Projects**. This space houses the architectural patterns, source code, and documentation for a suite of full-stack web platforms and specialized system-level security environments.
 
