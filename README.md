@@ -49,7 +49,7 @@ I bring enterprise-level rigor and "Five Nines" reliability mindset to every pro
 ---
 
 ## 📫 Connect
-* **Web Portfolio:** [Vic's Info](https://willardit.com/vics_portfolio)
+* **Web Portfolio:** [Vic's Info](https://willardit.com/home/vics_portfolio)
 * **LinkedIn:** [Insert Your LinkedIn Link Here]
 * **Email:** [vixplace@gmail.com](mailto:vixplace@gmail.com)
 
